@@ -6,3 +6,4 @@ This repo contains my project solutions for [Automate the Boring Stuff with Pyth
 - Chapter 4: Lists
     - [Comma Code](https://github.com/itsmohitj/automate_the_boring_stuff_project_solutions/tree/main/Comma_Code)
     - [Coin Flip Streaks](https://github.com/itsmohitj/automate_the_boring_stuff_project_solutions/tree/main/Coin_Flip_Streaks)
+    - [Character Picture Grid](https://github.com/itsmohitj/automate_the_boring_stuff_project_solutions/tree/main/Character_Picture_Grid)
