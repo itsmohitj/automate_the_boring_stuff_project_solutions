@@ -12,3 +12,6 @@ This repo contains my project solutions for [Automate the Boring Stuff with Pyth
 - Chapter 5: Dictionaries and Structuring Data
     - [Chess Dictionary Validator](https://github.com/itsmohitj/automate_the_boring_stuff_project_solutions/tree/main/Chess_Dictionary_Validator)
     - [Fantasy Game Inventory](https://github.com/itsmohitj/automate_the_boring_stuff_project_solutions/tree/main/Fantasy_Game_Inventory)
+
+- Chapter 6: Manipulating Strings
+    - [Table Printer](https://github.com/itsmohitj/automate_the_boring_stuff_project_solutions/tree/main/Table_Printer)
